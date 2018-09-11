@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "GELLERT SPA FULL DAY ENTRANCE TICKET",
+    "city": "BUDAPEST",
+    "venue": " Gellért Thermal Spa",
+    "date": "Tue 11th Sep, 2018, 9:00am",
+    "price": "£18.00 + £1.80 Booking fee = £19.80"
+  },
+  {
+    "artist": "GELLERT SPA FULL DAY ENTRANCE TICKET",
+    "city": "Gellért Thermal Spa Budapest Kelenhegyi út 4 H-1118 Hungary",
+    "venue": "Gellért Thermal Spa Budapest Kelenhegyi út 4 H-1118 Hungary",
+    "date": "24th May 2017 - 31st December 2018 Spa Opening Hours 9am - 8pm Monday to Sunday",
+    "price": ""
+  },
+  {
+    "artist": "SZÉCHENYI SPA FULL DAY ENTRANCE TICKET",
+    "city": "BUDAPEST",
+    "venue": " Széchenyi Thermal Spa",
+    "date": "Tue 11th Sep, 2018, 9:00am",
+    "price": "£17.00 + £1.70 Booking fee = £18.70"
+  },
+  {
+    "artist": "SZÉCHENYI SPA FULL DAY ENTRANCE TICKET",
+    "city": "Széchenyi Thermal Spa Budapest Állatkerti krt. 9-11 H-1146 Hungary",
+    "venue": "Széchenyi Thermal Spa Budapest Állatkerti krt. 9-11 H-1146 Hungary",
+    "date": "24th May 2017 - 31st December 2018 Spa Opening Hours 9am - 10pm Monday to Sunday",
+    "price": ""
+  },
+  {
+    "artist": "WORLD BIKE GIRL SPEAKING EVENT - NEWCASTLE (UK TOUR)",
+    "city": "NEWCASTLE UPON TYNE",
+    "venue": " The Journey",
+    "date": "Tue 11th Sep, 2018, 6:30pm",
+    "price": "£9.00 + £0.90 Booking fee = £9.90"
+  },
+  {
+    "artist": "'DROP IN'",
+    "city": "LONDON",
+    "venue": " The London Improv Theatre",
+    "date": "Tue 11th Sep, 2018, 7:00pm",
+    "price": "£20.00 + £2.00 Booking fee = £22.00"
+  },
+  {
+    "artist": "BRIDGET ST JOHN",
+    "city": "LONDON",
+    "venue": " Green Note",
+    "date": "Tue 11th Sep, 2018, 7:00pm",
+    "price": "£15.00 + £1.50 Booking fee = £16.50"
+  },
+  {
+    "artist": "LADYBIRD (15)",
+    "city": "LEEK",
+    "venue": " Foxlowe Arts Centre",
+    "date": "Tue 11th Sep, 2018, 7:00pm",
+    "price": "£5.00 + £0.50 Booking fee = £5.50"
+  },
+  {
+    "artist": "XS MALARKEY WITH FERN BRADY",
+    "city": "MANCHESTER",
+    "venue": " The Bread Shed",
+    "date": "Tue 11th Sep, 2018, 7:00pm",
+    "price": "£5.00 + £0.50 Booking fee = £5.50"
+  },
+  {
+    "artist": "XS MALARKEY WITH FERN BRADY",
+    "city": "MANCHESTER",
+    "venue": " The Bread Shed",
+    "date": "Tue 11th Sep, 2018, 7:00pm",
+    "price": "£3.00 + £0.30 Booking fee = £3.30"
+  }
+]
